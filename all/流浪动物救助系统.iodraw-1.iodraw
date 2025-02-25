@@ -20,6 +20,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6hNGvL31SpKrgkl-ctWB-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QirqfU6qQ1CxgQecP__h-5">
+          <mxGeometry x="0.813" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QirqfU6qQ1CxgQecP__h-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;流浪动物救助系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
