@@ -51,6 +51,12 @@
         <mxCell id="QirqfU6qQ1CxgQecP__h-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宠物救助&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="30" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="QirqfU6qQ1CxgQecP__h-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宠物领养&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QirqfU6qQ1CxgQecP__h-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宠物救助&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="30" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
