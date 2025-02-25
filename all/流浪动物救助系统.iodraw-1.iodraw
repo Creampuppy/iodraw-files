@@ -107,16 +107,6 @@
         <mxCell id="QirqfU6qQ1CxgQecP__h-33" value="&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;动&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;物&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;管&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6hNGvL31SpKrgkl-ctWB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QirqfU6qQ1CxgQecP__h-34" target="6hNGvL31SpKrgkl-ctWB-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6hNGvL31SpKrgkl-ctWB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QirqfU6qQ1CxgQecP__h-34" target="6hNGvL31SpKrgkl-ctWB-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="735" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QirqfU6qQ1CxgQecP__h-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;其&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;他&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="280" width="30" height="120" as="geometry" />
         </mxCell>
@@ -151,7 +141,7 @@
           <mxGeometry x="805" y="450" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6hNGvL31SpKrgkl-ctWB-19" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;论&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;坛&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;帖&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;子&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="775" y="460" width="30" height="120" as="geometry" />
+          <mxGeometry x="670" y="640" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6hNGvL31SpKrgkl-ctWB-24" value="&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;公&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;告&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;管&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="30" height="120" as="geometry" />
