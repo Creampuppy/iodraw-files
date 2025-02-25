@@ -128,6 +128,15 @@
         <mxCell id="6hNGvL31SpKrgkl-ctWB-10" value="&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;捐&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;赠&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;管&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="30" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="6hNGvL31SpKrgkl-ctWB-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;户&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="475" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6hNGvL31SpKrgkl-ctWB-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;角&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;色&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="475" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6hNGvL31SpKrgkl-ctWB-19" value="&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;文&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;管&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="475" width="30" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
