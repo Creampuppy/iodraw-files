@@ -7,11 +7,17 @@
         <mxCell id="QirqfU6qQ1CxgQecP__h-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QirqfU6qQ1CxgQecP__h-1" target="QirqfU6qQ1CxgQecP__h-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QirqfU6qQ1CxgQecP__h-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QirqfU6qQ1CxgQecP__h-1" target="QirqfU6qQ1CxgQecP__h-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QirqfU6qQ1CxgQecP__h-1" value="流浪动物救助系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QirqfU6qQ1CxgQecP__h-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QirqfU6qQ1CxgQecP__h-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
