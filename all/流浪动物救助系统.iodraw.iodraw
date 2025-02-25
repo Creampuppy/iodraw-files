@@ -69,7 +69,7 @@
         <mxCell id="QirqfU6qQ1CxgQecP__h-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;管理员端&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QirqfU6qQ1CxgQecP__h-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;宠&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;物&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;领&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;养&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QirqfU6qQ1CxgQecP__h-6" value="&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;动&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;物&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;领&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;养&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QirqfU6qQ1CxgQecP__h-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;宠&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;物&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;救&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;助&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -101,15 +101,6 @@
         </mxCell>
         <mxCell id="QirqfU6qQ1CxgQecP__h-24" value="科&lt;div&gt;普&lt;/div&gt;&lt;div&gt;文&lt;/div&gt;&lt;div&gt;章&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="280" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="QirqfU6qQ1CxgQecP__h-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;丢&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;失&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;宠&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;物&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;查&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;看&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="280" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="QirqfU6qQ1CxgQecP__h-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;宠&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;物&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;救&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;助&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="280" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="QirqfU6qQ1CxgQecP__h-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;宠&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;物&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;论&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;坛&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="280" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
