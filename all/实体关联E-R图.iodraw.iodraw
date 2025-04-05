@@ -4,63 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UjxC6knELyEJLIsew1bS-197" value="科普文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-770" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-198" value="阅读数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-830" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-199" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-710" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-200" value="封面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-710" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-201" value="时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-710" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-202" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-830" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-203" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-830" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-204" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjxC6knELyEJLIsew1bS-197" target="UjxC6knELyEJLIsew1bS-202">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="-520" as="sourcePoint" />
-            <mxPoint x="770" y="-570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-205" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UjxC6knELyEJLIsew1bS-203">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="-770" as="sourcePoint" />
-            <mxPoint x="520" y="-780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-206" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UjxC6knELyEJLIsew1bS-198">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="-770" as="sourcePoint" />
-            <mxPoint x="530" y="-770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-207" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjxC6knELyEJLIsew1bS-197" target="UjxC6knELyEJLIsew1bS-199">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="-740" as="sourcePoint" />
-            <mxPoint x="540" y="-760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-208" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjxC6knELyEJLIsew1bS-197" target="UjxC6knELyEJLIsew1bS-200">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="-730" as="sourcePoint" />
-            <mxPoint x="550" y="-750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-209" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjxC6knELyEJLIsew1bS-197" target="UjxC6knELyEJLIsew1bS-201">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="-720" as="sourcePoint" />
-            <mxPoint x="560" y="-740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-210" value="绝育动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="-560" width="80" height="40" as="geometry" />
         </mxCell>
