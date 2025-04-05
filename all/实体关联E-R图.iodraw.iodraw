@@ -955,8 +955,8 @@
         <mxCell id="UjxC6knELyEJLIsew1bS-333" value="动物照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-334" value="动物性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1510" width="80" height="40" as="geometry" />
+        <mxCell id="UjxC6knELyEJLIsew1bS-334" value="活动范围" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1390" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
