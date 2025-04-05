@@ -484,8 +484,8 @@
             <mxPoint x="290" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-160" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="810" width="80" height="40" as="geometry" />
+        <mxCell id="UjxC6knELyEJLIsew1bS-160" value="收入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="820" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-161" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjxC6knELyEJLIsew1bS-160" target="UjxC6knELyEJLIsew1bS-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -520,7 +520,7 @@
             <mxPoint x="390" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-191" value="收入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjxC6knELyEJLIsew1bS-191" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-192" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
