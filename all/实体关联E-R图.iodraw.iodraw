@@ -616,10 +616,10 @@
         <mxCell id="UjxC6knELyEJLIsew1bS-213" value="捕捉情况" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="-500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-214" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjxC6knELyEJLIsew1bS-214" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="-500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-215" value="发表人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjxC6knELyEJLIsew1bS-215" value="疫苗状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="-620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-216" value="发表时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
