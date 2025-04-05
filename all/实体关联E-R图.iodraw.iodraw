@@ -607,7 +607,7 @@
         <mxCell id="UjxC6knELyEJLIsew1bS-210" value="绝育动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="-560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-211" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjxC6knELyEJLIsew1bS-211" value="放生状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="-620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-212" value="流浪动物id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
