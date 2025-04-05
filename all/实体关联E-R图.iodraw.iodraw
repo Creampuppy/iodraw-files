@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-3" value="找回状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="370" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-4" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="120" width="80" height="40" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-8" value="联系人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UjxC6knELyEJLIsew1bS-9" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
