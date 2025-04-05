@@ -943,8 +943,8 @@
             <mxPoint x="390" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-331" value="是否绝育" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1520" width="80" height="40" as="geometry" />
+        <mxCell id="UjxC6knELyEJLIsew1bS-331" value="疫苗接种" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
