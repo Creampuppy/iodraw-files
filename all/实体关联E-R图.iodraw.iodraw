@@ -247,10 +247,10 @@
         <mxCell id="UjxC6knELyEJLIsew1bS-76" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-77" value="宠物名字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjxC6knELyEJLIsew1bS-77" value="相关描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="-500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-78" value="种类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjxC6knELyEJLIsew1bS-78" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-79" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
