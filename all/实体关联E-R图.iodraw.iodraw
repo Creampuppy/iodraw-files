@@ -673,7 +673,7 @@
         <mxCell id="UjxC6knELyEJLIsew1bS-225" value="救助站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-1000" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-226" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjxC6knELyEJLIsew1bS-226" value="照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="-1060" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-227" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -726,6 +726,9 @@
             <mxPoint x="720" y="-950" as="sourcePoint" />
             <mxPoint x="590" y="-970" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UjxC6knELyEJLIsew1bS-238" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-940" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
