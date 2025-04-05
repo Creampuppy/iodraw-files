@@ -434,7 +434,7 @@
           <mxGeometry x="260" y="910" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-150" value="年龄" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="850" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-151" value="婚姻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="80" height="40" as="geometry" />
@@ -524,7 +524,7 @@
           <mxGeometry x="550" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-192" value="宠物" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="910" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
