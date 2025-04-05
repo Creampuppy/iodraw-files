@@ -520,8 +520,11 @@
             <mxPoint x="390" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjxC6knELyEJLIsew1bS-191" value="宠物" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjxC6knELyEJLIsew1bS-191" value="收入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UjxC6knELyEJLIsew1bS-192" value="宠物" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="690" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
