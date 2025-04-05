@@ -848,16 +848,16 @@
           <mxGeometry x="290" y="1200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-310" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1410" width="80" height="40" as="geometry" />
+          <mxGeometry x="125" y="1410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-311" value="种类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1450" width="80" height="40" as="geometry" />
+          <mxGeometry x="165" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-312" value="年龄" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1460" width="80" height="40" as="geometry" />
+          <mxGeometry x="255" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-313" value="是否绝育" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1450" width="80" height="40" as="geometry" />
+          <mxGeometry x="345" y="1530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjxC6knELyEJLIsew1bS-314" value="出生年月" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1260" width="80" height="40" as="geometry" />
