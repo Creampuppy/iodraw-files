@@ -952,6 +952,12 @@
             <mxPoint x="360" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UjxC6knELyEJLIsew1bS-333" value="动物照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UjxC6knELyEJLIsew1bS-334" value="动物性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1510" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
