@@ -10,7 +10,7 @@
         <mxCell id="Xtv-14iYxb64AjXqxeLL-1" value="流浪动物救助系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xtv-14iYxb64AjXqxeLL-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xtv-14iYxb64AjXqxeLL-2" value="用户端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
