@@ -20,10 +20,10 @@
           <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-4" value="本地存储&lt;div&gt;gps-reports.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-5" value="TCP服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-6" value="设备注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
