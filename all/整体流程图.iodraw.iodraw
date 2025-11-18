@@ -11,13 +11,13 @@
           <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-3" value="应用解析&lt;div&gt;GPS_Process5.c&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-4" value="本地存储&lt;div&gt;gps-reports.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-5" value="TCP服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-6" value="设备注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-9" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;mknod /dev/mydev c 200 0&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="sourcePoint" />
+            <mxPoint x="230" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
