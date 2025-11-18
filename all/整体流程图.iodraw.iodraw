@@ -25,6 +25,9 @@
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-7" value="数据加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-8" value="提供文件接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
