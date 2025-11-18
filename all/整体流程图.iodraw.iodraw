@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cgkrax_zBBjGjmeDVkNA-1" target="Cgkrax_zBBjGjmeDVkNA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-1" value="模拟GPS硬件程序&lt;div&gt;gps-example.c&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
         </mxCell>
@@ -43,7 +46,7 @@
             <mxPoint x="230" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cgkrax_zBBjGjmeDVkNA-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cgkrax_zBBjGjmeDVkNA-2" target="Cgkrax_zBBjGjmeDVkNA-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="220" as="sourcePoint" />
             <mxPoint x="230" y="170" as="targetPoint" />
