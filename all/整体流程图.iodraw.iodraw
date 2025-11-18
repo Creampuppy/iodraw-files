@@ -26,7 +26,7 @@
           <mxGeometry x="80" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-5" value="TCP服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="580" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-6" value="设备注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
