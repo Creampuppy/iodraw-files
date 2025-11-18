@@ -55,7 +55,7 @@
             <mxPoint x="230" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cgkrax_zBBjGjmeDVkNA-18" value="设备注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-18" value="打开资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
