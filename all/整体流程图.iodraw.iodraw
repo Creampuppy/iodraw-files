@@ -22,8 +22,8 @@
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-6" value="设备注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cgkrax_zBBjGjmeDVkNA-7" value="设备注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="130" width="80" height="40" as="geometry" />
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-7" value="数据加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
