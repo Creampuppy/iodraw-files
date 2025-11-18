@@ -10,6 +10,9 @@
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-1" value="模拟GPS硬件程序&lt;div&gt;gps-example.c&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cgkrax_zBBjGjmeDVkNA-2" target="Cgkrax_zBBjGjmeDVkNA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-2" value="驱动抽象&lt;div&gt;simple-module.ko&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
         </mxCell>
