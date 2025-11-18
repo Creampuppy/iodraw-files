@@ -13,8 +13,8 @@
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-3" value="应用解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cgkrax_zBBjGjmeDVkNA-4" value="应用解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="120" height="40" as="geometry" />
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-4" value="本地存储+远程传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
