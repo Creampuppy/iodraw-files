@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="UEr2eY-7KbYfa4JKecoO">
-    <mxGraphModel dx="1040" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,11 +22,14 @@
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-3" value="应用解析&lt;div&gt;GPS_Process5.c&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Cgkrax_zBBjGjmeDVkNA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cgkrax_zBBjGjmeDVkNA-4" target="Cgkrax_zBBjGjmeDVkNA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-4" value="本地存储（持久化）&lt;div&gt;gps-reports.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-5" value="TCP服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cgkrax_zBBjGjmeDVkNA-6" value="设备注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
