@@ -100,9 +100,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-mUObGuMhMO4N-vruWg-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-mUObGuMhMO4N-vruWg-45" target="H-mUObGuMhMO4N-vruWg-13">
+        <mxCell id="H-mUObGuMhMO4N-vruWg-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H-mUObGuMhMO4N-vruWg-45" target="H-mUObGuMhMO4N-vruWg-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="537" y="180" />
+              <mxPoint x="537" y="480" />
+              <mxPoint x="370" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H-mUObGuMhMO4N-vruWg-45" value="ai判断需求是否足够清晰（是否全命中维度）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
