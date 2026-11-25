@@ -16,7 +16,7 @@
         <mxCell id="H-mUObGuMhMO4N-vruWg-5" value="ai辅助构图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H-mUObGuMhMO4N-vruWg-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H-mUObGuMhMO4N-vruWg-7" value="明确需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
