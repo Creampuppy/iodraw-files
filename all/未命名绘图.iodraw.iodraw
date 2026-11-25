@@ -19,7 +19,7 @@
         <mxCell id="H-mUObGuMhMO4N-vruWg-11" value="是否有灵感" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="150" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H-mUObGuMhMO4N-vruWg-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H-mUObGuMhMO4N-vruWg-13" value="ai引导" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H-mUObGuMhMO4N-vruWg-15" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -28,8 +28,8 @@
         <mxCell id="H-mUObGuMhMO4N-vruWg-16" value="说出需求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H-mUObGuMhMO4N-vruWg-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="148" width="50" height="30" as="geometry" />
+        <mxCell id="H-mUObGuMhMO4N-vruWg-18" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
