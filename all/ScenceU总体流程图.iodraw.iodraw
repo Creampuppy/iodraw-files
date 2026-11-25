@@ -100,6 +100,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="H-mUObGuMhMO4N-vruWg-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-mUObGuMhMO4N-vruWg-45" target="H-mUObGuMhMO4N-vruWg-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H-mUObGuMhMO4N-vruWg-45" value="ai判断需求是否足够清晰（是否全命中维度）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="140" width="125" height="80" as="geometry" />
         </mxCell>
