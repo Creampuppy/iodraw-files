@@ -13,6 +13,9 @@
         <mxCell id="H-mUObGuMhMO4N-vruWg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H-mUObGuMhMO4N-vruWg-11" target="H-mUObGuMhMO4N-vruWg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="H-mUObGuMhMO4N-vruWg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H-mUObGuMhMO4N-vruWg-11" target="H-mUObGuMhMO4N-vruWg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H-mUObGuMhMO4N-vruWg-11" value="是否有灵感" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="150" width="80" height="60" as="geometry" />
         </mxCell>
@@ -20,7 +23,10 @@
           <mxGeometry x="95" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H-mUObGuMhMO4N-vruWg-15" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="218" width="40" height="30" as="geometry" />
+          <mxGeometry x="150" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H-mUObGuMhMO4N-vruWg-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
