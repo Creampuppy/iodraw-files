@@ -104,8 +104,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="180" />
-              <mxPoint x="630" y="480" />
+              <mxPoint x="680" y="180" />
+              <mxPoint x="680" y="480" />
               <mxPoint x="370" y="480" />
             </Array>
           </mxGeometry>
@@ -116,8 +116,8 @@
         <mxCell id="H-mUObGuMhMO4N-vruWg-48" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="320" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H-mUObGuMhMO4N-vruWg-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="458" width="50" height="30" as="geometry" />
+        <mxCell id="H-mUObGuMhMO4N-vruWg-51" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="458" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
