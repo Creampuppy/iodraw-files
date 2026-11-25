@@ -93,8 +93,8 @@
         <mxCell id="H-mUObGuMhMO4N-vruWg-42" value="导出照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="1020" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H-mUObGuMhMO4N-vruWg-45" value="ai判断需求清晰程度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="140" width="80" height="80" as="geometry" />
+        <mxCell id="H-mUObGuMhMO4N-vruWg-45" value="ai判断需求是否足够清晰（是否全命中维度）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="140" width="125" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
